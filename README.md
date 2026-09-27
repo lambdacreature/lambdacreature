@@ -29,9 +29,8 @@ I'm a computer science student passionate about Linux, Retro Platforms, Networki
 #### Nerdy Coding & Problem Solving
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/lambdacreature/)
 
----
 
-*Currently running Arch Linux on all my main machines BTW*
+#### Currently running Arch Linux on all my main machines BTW
 <p align="left">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
 </p>
