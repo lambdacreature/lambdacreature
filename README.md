@@ -2,7 +2,16 @@
 
 ### CS Student & Linux Enthusiast 🐧
 
+---
+
 I'm a computer science student passionate about Linux, Retro Platforms, Networking, Algorithms, Math, Science and Software Development.
+
+---
+
+### Academic Status:
+- **Second-year CS Student** at the **Universidad de las Ciencias Informáticas (UCI), Cuba**.
+
+---
 
 #### **Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -23,6 +32,12 @@ I'm a computer science student passionate about Linux, Retro Platforms, Networki
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+---
+
+### Nerdy Coding & Problem Solving:
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/lambdacreature/)
+
+---
 
 *Currently running Arch Linux on all my main machines BTW*
 <p align="left">
