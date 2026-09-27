@@ -3,7 +3,6 @@
 I'm a computer science student passionate about Linux, Retro Platforms, Networking, Algorithms, Math, Science and Software Development.
 
 
-#### Academic Status
 **Second-year CS Student** at the **Universidad de las Ciencias Informáticas (UCI), Cuba**.
 
 ---
