@@ -1,9 +1,5 @@
 ## Hey there, I'm Sidhe
 
-### CS Student & Linux Enthusiast 🐧
-
----
-
 I'm a computer science student passionate about Linux, Retro Platforms, Networking, Algorithms, Math, Science and Software Development.
 
 ---
